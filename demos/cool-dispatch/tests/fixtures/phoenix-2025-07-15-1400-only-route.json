@@ -1,0 +1,55 @@
+{
+ "activity_id": "f815b4c7-3d5c-46c0-ab18-103d574ff0b0",
+ "status": "completed",
+ "routes": [
+  {
+   "type": "Feature",
+   "properties": {
+    "score": 10,
+    "scores": [
+     10
+    ],
+    "label": "Only route",
+    "selected": true,
+    "distance_km": 21.14,
+    "duration_min": 16.4,
+    "thermal": {
+     "mean_c": 41.819,
+     "time_weighted_c": 41.867,
+     "dist_weighted_c": 41.892,
+     "peak_c": 42.04,
+     "degree_minutes_above_threshold": 161.8,
+     "minutes_above_threshold": 16.4,
+     "threshold_c": 32.0
+    },
+    "vs_fastest": {
+     "distance_pct": 0.0,
+     "duration_pct": 0.0,
+     "duration_min_delta": 0.0,
+     "mean_temp_delta_c": 0.0,
+     "jaccard": 1.0
+    }
+   }
+  }
+ ],
+ "dial": {
+  "mapping": "rank",
+  "distinct_routes": 1,
+  "positions": [
+   10
+  ],
+  "score_to_route": {
+   "10": 10
+  },
+  "no_cooling_available": true,
+  "has_balanced": false,
+  "best_delta_c": 0.0,
+  "best_delta_min": 0.0,
+  "span_pct": 0.0,
+  "n_candidates": 6,
+  "selected_score": 10,
+  "requested_score": null
+ },
+ "field": {},
+ "metadata": {}
+}

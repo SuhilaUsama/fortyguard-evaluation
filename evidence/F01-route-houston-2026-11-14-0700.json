@@ -1,0 +1,116 @@
+{
+ "tool": "temperature_routing_read",
+ "trace": {
+  "trace_id": "865a239c51ba",
+  "tool": "temperature_routing_read",
+  "plan_type": "premium",
+  "decision": "allow",
+  "status": "ok",
+  "latency_ms": 817,
+  "cost_credits": 0
+ },
+ "value": {
+  "activity_id": "ddb16239-a6b9-4a58-a4e0-615cbe1da6dd",
+  "status": "completed",
+  "routes": [
+   {
+    "type": "Feature",
+    "properties": {
+     "score": 10,
+     "scores": [
+      10
+     ],
+     "label": "Only route",
+     "selected": true,
+     "distance_km": 29.746,
+     "duration_min": 19.27,
+     "thermal": {
+      "mean_c": 28.889,
+      "time_weighted_c": 28.986,
+      "dist_weighted_c": 28.995,
+      "peak_c": 29.45,
+      "degree_minutes_above_threshold": 0.0,
+      "minutes_above_threshold": 0.0,
+      "threshold_c": 32.0
+     },
+     "vs_fastest": {
+      "distance_pct": 0.0,
+      "duration_pct": 0.0,
+      "duration_min_delta": 0.0,
+      "mean_temp_delta_c": 0.0,
+      "jaccard": 1.0
+     },
+     "segment_temp_c": [
+      29.09,
+      29.09,
+      29.09,
+      29.09,
+      29.09,
+      29.09,
+      29.09,
+      29.09,
+      29.09,
+      29.09,
+      29.17,
+      29.17,
+      29.17,
+      29.17,
+      29.17,
+      29.17,
+      28.04,
+      28.04,
+      28.04,
+      28.04,
+      29.39,
+      29.07,
+      29.3,
+      29.45,
+      29.23,
+      29.23,
+      29.23,
+      29.23,
+      29.23,
+      28.85,
+      28.85,
+      28.85,
+      28.85,
+      28.85,
+      28.85,
+      28.85,
+      28.58,
+      28.58,
+      28.58,
+      28.58,
+      28.58,
+      28.58,
+      28.58,
+      28.58,
+      28.58,
+      28.58,
+      28.58
+     ]
+    }
+   }
+  ],
+  "dial": {
+   "mapping": "rank",
+   "distinct_routes": 1,
+   "positions": [
+    10
+   ],
+   "score_to_route": {
+    "10": 10
+   },
+   "no_cooling_available": true,
+   "has_balanced": false,
+   "best_delta_c": 0.0,
+   "best_delta_min": 0.0,
+   "span_pct": 0.0,
+   "n_candidates": 5,
+   "selected_score": 10,
+   "requested_score": null
+  },
+  "field": {},
+  "metadata": {}
+ }
+}
