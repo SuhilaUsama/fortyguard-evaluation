@@ -1,7 +1,5 @@
 # FortyGuard: a new customer's evaluation, with Codex
 
-Ziad Osama El-Boshy · Automation Intern application · 13 Nov 2026
-
 Starting from a fresh free trial account, I used the Dashboard and the Temperature MCP the way a customer would, with **Codex CLI** as the agent. Then I built two small things a FortyGuard customer could reuse.
 
 **Read the [report](REPORT.md)** (one page, 11 findings, each with evidence and a fix).
