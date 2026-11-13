@@ -1,6 +1,6 @@
 # FortyGuard evaluation report
 
-**Author:** Ziad Osama El-Boshy · **Dates:** 13 Nov 2026 · **Client:** Codex CLI 0.169.0 (`gpt-5.6-luna`) and a small Python MCP client · **Spend:** 51,300 of 1,000,000 trial credits (every call quoted first)
+**Author:** Suhila Usama Ahmed · **Dates:** 13 Nov 2026 · **Client:** Codex CLI 0.169.0 (`gpt-5.6-luna`) and a small Python MCP client · **Spend:** 51,300 of 1,000,000 trial credits (every call quoted first)
 
 I tested FortyGuard as a new customer would: a fresh free trial account, the Dashboard, and the Temperature MCP from Codex. I built two things on top: a crew-dispatch planner and a Codex recipe pack. Everything below has evidence in [`evidence/`](evidence/) or [`demos/`](demos/). I stayed at customer level: one trial account, no load testing, nothing touching other users or their data.
 
